@@ -4,11 +4,11 @@ Code listing for a paper: Matsuyama R, Akhmetzhanov AR, Endo A, Lee H, Yamaguchi
 
 **Background** A Rohingya refugee camp in Cox’s Bazar, Bangladesh experienced a large-scale diphtheria epidemic in 2017. The background information of previously immune fraction among refugees cannot be explicitly estimated, and thus, we conducted an uncertainty analysis of the basic reproduction number, *R*<sub>0</sub>.
 
-**Methods** A renewal process model was devised to estimate the R0 and ascertainment rate of cases, and loss of susceptible individuals was modeled as one minus the sum of initially immune fraction and the fraction naturally infected during the epidemic. To account for the uncertainty of initially immune fraction, we employed a Latin Hypercube sampling (LHS) method.
+**Methods** A renewal process model was devised to estimate the *R*<sub>0</sub> and ascertainment rate of cases, and loss of susceptible individuals was modeled as one minus the sum of initially immune fraction and the fraction naturally infected during the epidemic. To account for the uncertainty of initially immune fraction, we employed a Latin Hypercube sampling method.
 
-**Results** *R*<sub>0</sub> ranged from 4.7 to 14.8 with the median estimate at 7.2. *R*<sub>0</sub> was positively correlated with ascertainment rates. Sensitivity analysis indicated that R0 would become smaller with greater variance of the generation time.
+**Results** *R*<sub>0</sub> ranged from 4.7 to 14.8 with the median estimate at 7.2. *R*<sub>0</sub> was positively correlated with ascertainment rates. Sensitivity analysis indicated that *R*<sub>0</sub> would become smaller with greater variance of the generation time.
 
-**Discussion** Estimated R0 was broadly consistent with published estimate from endemic data, indicating that the vaccination coverage of 86% has to be satisfied to prevent the epidemic by means of mass vaccination. LHS was particularly useful in the setting of refugee camp in which the background health status is poorly quantified.
+**Discussion** Estimated *R*<sub>0</sub> was broadly consistent with published estimate from endemic data, indicating that the vaccination coverage of 86% has to be satisfied to prevent the epidemic by means of mass vaccination. LHS was particularly useful in the setting of refugee camp in which the background health status is poorly quantified.
 
 ---
 
