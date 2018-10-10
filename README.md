@@ -13,7 +13,7 @@ Code listing for a paper: Matsuyama R, Akhmetzhanov AR, Endo A, Lee H, Yamaguchi
 ---
 
 Code scripts consists of two notebooks:
-* "[*A. Outbreak Analysis in Julia*](A-Outbreak_Analysis_in_Julia.ipynb)" presents the code that was used to run simulations and generate all results in the paper,
+* "[*A. Outbreak Analysis in Julia*](https://nbviewer.jupyter.org/github/aakhmetz/DiphtheriaRohingya2017/blob/master/A-Outbreak_Analysis_in_Julia.ipynb)" presents the code that was used to run simulations and generate all results in the paper,
 * "[*B. Plotting in R*](B-Plotting_in_R.ipynb)" shows the code that was used to generate all figures in the paper.
 
 Additionally, there is data-file "Data.xlsx" with reported diphtheria incidence in a Rohingya refugee camp, and three files *output_Julia_XX.csv" with the output of simulations used in the second notebook.
