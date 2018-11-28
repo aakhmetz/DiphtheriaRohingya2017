@@ -1,6 +1,6 @@
 # DiphtheriaRohingya2017
 
-Code listing for a paper: Matsuyama R, Akhmetzhanov AR, Endo A, Lee H, Yamaguchi T, Tsuzuki S, Nishiura H 2018 Uncertainty and sensitivity analysis of the basic reproduction number of diphtheria: A case study of Rohingya refugee camp in Bangladesh, November-December 2017. *PeerJ* *In Press*
+Code listing for a paper: Matsuyama R, Akhmetzhanov AR, Endo A, Lee H, Yamaguchi T, Tsuzuki S, Nishiura H 2018 Uncertainty and sensitivity analysis of the basic reproduction number of diphtheria: A case study of Rohingya refugee camp in Bangladesh, November-December 2017. [*PeerJ*](https://peerj.com/articles/4583/)
 
 **Background** A Rohingya refugee camp in Cox’s Bazar, Bangladesh experienced a large-scale diphtheria epidemic in 2017. The background information of previously immune fraction among refugees cannot be explicitly estimated, and thus, we conducted an uncertainty analysis of the basic reproduction number, *R*<sub>0</sub>.
 
