@@ -17,3 +17,5 @@ Code scripts consists of two notebooks:
 * "[*B. Plotting in R*](B-Plotting_in_R.ipynb)" shows the code that was used to generate all figures in the paper.
 
 Additionally, there is data-file "Data.xlsx" with reported diphtheria incidence in a Rohingya refugee camp, and three files *output_Julia_XX.csv" with the output of simulations used in the second notebook.
+
+(c) 2018 Andrei R. Akhmetzhanov 
