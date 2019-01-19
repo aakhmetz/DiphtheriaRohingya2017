@@ -18,4 +18,6 @@ Code scripts consists of two notebooks:
 
 Additionally, there is data-file "Data.xlsx" with reported diphtheria incidence in a Rohingya refugee camp, and three files *output_Julia_XX.csv" with the output of simulations used in the second notebook.
 
-(c) 2018 Andrei R. Akhmetzhanov 
+---
+
+Written by Andrei R. Akhmetzhanov 2018
