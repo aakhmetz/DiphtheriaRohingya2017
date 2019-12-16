@@ -20,4 +20,4 @@ Additionally, there is data-file "Data.xlsx" with reported diphtheria incidence 
 
 ---
 
-Developed by Andrei R. Akhmetzhanov 2018
+Coded by Andrei R. Akhmetzhanov 2018
